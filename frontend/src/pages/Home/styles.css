@@ -1,0 +1,45 @@
+.text-container {
+  padding: 0 0 20px 0;
+}
+
+.img-container {
+  text-align: center;
+}
+
+.table-information {
+  margin-top: 10px;
+}
+
+.table-information th {
+  border: 1px solid #fff;
+  padding: 5px;
+}
+
+.table-information td {
+  border: 1px solid #fff;
+  padding-left: 10px;
+}
+
+.table-information tr {
+  border: 1px solid #fff;
+}
+
+img {
+  padding-bottom: 20px;
+}
+
+h3 {
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  margin: 0 10px 0 10px;
+}
+
+@media (min-width: 992px) {
+  .img-container {
+    margin-top: 20px;
+  }
+}

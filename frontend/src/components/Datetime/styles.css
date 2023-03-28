@@ -1,0 +1,16 @@
+.date-custom {
+    font-size: 40px;
+    color: #FFF;
+    text-align: center;
+}
+
+.time-custom {
+    font-size: 40px;
+    color: #FFF;
+    text-align: center;
+}
+
+.custom-textarea {
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,35 @@
+.table-numbers tr {
+  border: 1px solid #fff;
+}
+.table-numbers td {
+  border: 1px solid #fff;
+  text-align: center;
+}
+
+.has-number {
+  text-decoration: line-through;
+}
+
+@media (min-width: 576px) {
+  .table-numbers td {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .table-numbers td {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  .table-numbers td {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .table-numbers td {
+    font-size: 40px;
+  }
+}
